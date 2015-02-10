@@ -1,0 +1,55 @@
+Generating array with 100 elements.
+Array generated with 100 random elements
+
+Seq median time: 0.632411111111111
+Par median time: 0.7459392222222223
+
+--- PROGRAM TERMINATED ---
+
+Generating array with 1000 elements.
+Array generated with 1000 random elements
+
+Seq median time: 1.1150891111111114
+Par median time: 0.9581269999999998
+
+--- PROGRAM TERMINATED ---
+
+Generating array with 10000 elements.
+Array generated with 10000 random elements
+
+Seq median time: 3.365983555555555
+Par median time: 1.4388196666666666
+
+--- PROGRAM TERMINATED ---
+
+Generating array with 100000 elements.
+Array generated with 100000 random elements
+
+Seq median time: 21.539401333333334
+Par median time: 0.9545081111111112
+
+--- PROGRAM TERMINATED ---
+
+Generating array with 1000000 elements.
+Array generated with 1000000 random elements
+
+Seq median time: 202.46982444444444
+Par median time: 4.129037666666666
+
+--- PROGRAM TERMINATED ---
+
+Generating array with 10000000 elements.
+Array generated with 10000000 random elements
+
+Seq median time: 1962.959769888889
+Par median time: 19.806677
+
+--- PROGRAM TERMINATED ---
+
+Generating array with 100000000 elements.
+Array generated with 100000000 random elements
+
+Seq median time: 19390.562148666664
+Par median time: 185.3411032222222
+
+--- PROGRAM TERMINATED ---

@@ -1,0 +1,32 @@
+Generating array with 1000 elements.
+Array generated with 1000 random elements
+
+Seq-time: 13.907163 ms. when working on 1000 elements.
+Par-time: 0.937336 ms. when working on 1000 elements.
+
+Seq-time: 1.166893 ms. when working on 1000 elements.
+Par-time: 0.496782 ms. when working on 1000 elements.
+
+Seq-time: 0.757711 ms. when working on 1000 elements.
+Par-time: 0.843538 ms. when working on 1000 elements.
+
+Seq-time: 0.565512 ms. when working on 1000 elements.
+Par-time: 2.403387 ms. when working on 1000 elements.
+
+Seq-time: 0.330817 ms. when working on 1000 elements.
+Par-time: 0.263883 ms. when working on 1000 elements.
+
+Seq-time: 0.311658 ms. when working on 1000 elements.
+Par-time: 0.342333 ms. when working on 1000 elements.
+
+Seq-time: 0.313227 ms. when working on 1000 elements.
+Par-time: 1.956322 ms. when working on 1000 elements.
+
+Seq-time: 0.33364 ms. when working on 1000 elements.
+Par-time: 0.33667 ms. when working on 1000 elements.
+
+Seq-time: 0.302431 ms. when working on 1000 elements.
+Par-time: 0.361214 ms. when working on 1000 elements.
+
+Seq median time: 1.9987835555555558
+Par median time: 0.882385
